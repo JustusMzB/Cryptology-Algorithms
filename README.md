@@ -7,5 +7,6 @@ Open a new Branch for any new algorithm or algorithm alteration you want to crea
 Upon finish, open pull request, add a reviewer. Only merge upon finished review.
 
 Finished algorithms should be imported into the main module.
+Recommended: Ad an optional debug parameter. If True, debug intermediate steps etc.
 
 Thanks for helping!
